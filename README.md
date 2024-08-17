@@ -1,1 +1,2 @@
 # Distribuciones-de-probabilidad
+Las distribuciones de probabilidad son funciones matemáticas que describen el comportamiento de una variable aleatoria. Estas distribuciones especifican la probabilidad de que una variable aleatoria tome un valor específico o dentro de un rango de valores. Dependiendo de si la variable aleatoria es discreta o continua, la distribución de probabilidad puede ser discreta o continua, respectivamente.
